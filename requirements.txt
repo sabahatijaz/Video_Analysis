@@ -1,0 +1,7 @@
+torch
+transformers
+tqdm
+opencv-python
+Pillow
+image-similarity-measures
+python-decouple
